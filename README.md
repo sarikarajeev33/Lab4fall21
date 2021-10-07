@@ -26,7 +26,7 @@ Commit and push changes and check your repository on github.com to confirm your 
 Intro comments template
 # Programmers: [your names]
 # Course: CS151, Dr. Rajeev  
-# Date: Thu Oct 3
+# Date: Thu Oct 7
 # Lab: 4
 # Program Inputs: [What information do you request from the user?]
 # Program Outputs: [What information do you display for the user?]
