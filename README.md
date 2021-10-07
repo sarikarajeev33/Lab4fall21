@@ -1,5 +1,5 @@
 Lab 4
-Due: Mon Oct 5
+
 
 Problem
 Write a program to determine how much a customer owes their mobile phone provider based on their subscription package and how much data they used. There are three different subscription packages for its customers:
